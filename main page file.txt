@@ -5,3 +5,4 @@ varaiable setitng in react
  // added after transfer to kabee organization from git bash
 
 // rearrangement after development branch created
+//bug fixes on development branch

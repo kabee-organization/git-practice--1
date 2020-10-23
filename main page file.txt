@@ -1,2 +1,4 @@
 //kik
 //firt kiss
+
+varaiable setitng in react

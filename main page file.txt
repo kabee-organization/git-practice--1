@@ -6,3 +6,5 @@ varaiable setitng in react
 
 // rearrangement after development branch created
 //bug fixes on development branch
+
+//after forking 
